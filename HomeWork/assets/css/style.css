@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border: 30px solid #ffa500;
+}
+.second{
+    height: 440px;
+    width: 440px;
+    border: 30px solid yellow;
+}
+.third{
+    height: 380px;
+    width: 380px;
+    border: 30px solid #adff2f;
+    background-image: url("../img/nature-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: #add8e6;
+}
